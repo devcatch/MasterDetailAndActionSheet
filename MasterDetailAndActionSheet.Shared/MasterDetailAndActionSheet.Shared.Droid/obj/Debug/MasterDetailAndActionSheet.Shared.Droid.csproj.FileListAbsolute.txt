@@ -1,0 +1,1 @@
+C:\Users\catch\Source\Repos\Test\MasterDetailAndActionSheet\MasterDetailAndActionSheet.Shared\MasterDetailAndActionSheet.Shared.Droid\obj\Debug\MasterDetailAndActionSheet.Shared.Droid.csprojResolveAssemblyReference.cache

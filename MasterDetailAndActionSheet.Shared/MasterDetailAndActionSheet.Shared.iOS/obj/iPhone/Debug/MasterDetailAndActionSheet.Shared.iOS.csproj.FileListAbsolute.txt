@@ -1,0 +1,2 @@
+C:\Users\catch\Source\Repos\Test\MasterDetailAndActionSheet\MasterDetailAndActionSheet.Shared\MasterDetailAndActionSheet.Shared.iOS\obj\iPhone\Debug\
+C:\Users\catch\Source\Repos\Test\MasterDetailAndActionSheet\MasterDetailAndActionSheet.Shared\MasterDetailAndActionSheet.Shared.iOS\obj\iPhone\Debug\MasterDetailAndActionSheet.Shared.iOS.csprojResolveAssemblyReference.cache
